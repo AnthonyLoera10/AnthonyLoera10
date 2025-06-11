@@ -1,9 +1,6 @@
 ## Hi, I'm Anthony👋
 
-- 💻 Computer Science Student<br/>
-- 🌱 Learning IT and cybersecurity<br/>
-- 👯 I’m looking to collaborate on team projects <br/>
-- 🤔 I’m looking for help with DSA <br/>
+
   
 # 💫 About Me:
 - 💻 Computer Science Student<br/><br>- 🌱 Learning IT and cybersecurity<br/><br>- 👯 I’m looking to collaborate on team projects <br/><br>- 🤔 I’m looking for help with DSA <br/><br>  
