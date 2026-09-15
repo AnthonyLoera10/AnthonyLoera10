@@ -2,7 +2,7 @@
 
 
   
-# 💫 About Me:
+#  About Me:
 - 💻 Computer Science Student<br/><br>- 🌱 Learning IT and cybersecurity<br/><br>- 👯 I’m looking to collaborate on team projects <br/><br>- 🤔 I’m looking for help with DSA <br/><br>  
 
 
